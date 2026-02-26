@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **khatiwadabhi@gmail.com**
+- 📫 How to reach me **abhishekkhatiwada001@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
